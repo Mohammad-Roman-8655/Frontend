@@ -125,7 +125,7 @@ function HomePage() {
             >
               <h2 className="text-xl font-bold text-gray-800">{product.name}</h2>
               <p className="text-gray-600 mt-2">
-                <strong>Price:</strong> ${product.price}
+                <strong>Price:</strong> &#8377;{product.price}
               </p>
               <p className="text-gray-600">
                 <strong>Featured:</strong> {product.featured ? "Yes" : "No"}
