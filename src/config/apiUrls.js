@@ -1,1 +1,1 @@
-export const API_BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
+export const API_BACKEND_URL ="https://product-ass-backend.vercel.app";
