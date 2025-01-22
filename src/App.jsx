@@ -1,8 +1,8 @@
 import React from 'react'
 import HomePage from './components/HomePage'
-import {BrowserRouter,Routes,Route,Router}from 'react-router-dom'
+import {BrowserRouter,Routes,Route}from 'react-router-dom'
 import NavBar from './components/NavBar'
-import Signup from './components/signup'
+import Signup from './components/Signup'
 import Login from './components/login'
 
 function App() {
